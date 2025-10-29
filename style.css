@@ -515,3 +515,8 @@ section,
   letter-spacing: 0.03em;
 
 }
+
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
